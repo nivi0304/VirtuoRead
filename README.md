@@ -1,5 +1,6 @@
 # Virtuo Read  Application REST API
-    A Virtuo Read that performs CRUD (Create, Read, Update, Delete) operations is a software application designed to efficiently manage the operations and data associated with a library. 
+   
+    This application perform CRUD operations (Create,Read,Update,Delete) operations is a software application designed to efficiently manage the operations and data associated with a library. 
 
 ## Technology Stack
 
@@ -10,7 +11,7 @@ The application is built using the following technologies:
 * Spring Boot
 * Spring Data JPA
 * MySQL
-* 
+  
 ## Application Modules
 
 The application consists of the following modules:
