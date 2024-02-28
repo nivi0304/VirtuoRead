@@ -35,12 +35,12 @@ The application consists of the following modules:
 
 ### Login
 
-<!--
+
 - Endpoint: `/reg`
   - Description: Displays the registration form.
   - Method: GET
 
 - Endpoint: `/home`
   - Description: Handles registration requests and redirects to the home page.
-  - Method: POST -->
+  - Method: POST 
  
